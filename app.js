@@ -11,8 +11,8 @@ const app = express();
 const ideas = require('./routes/ideas');
 const users = require('./routes/users');
 
-//Map global promise = global.Promise
-mongoose.Promise = global.Promise;
+// //Map global promise = global.Promise
+// mongoose.Promise = global.Promise;
 //connect to mongoose
 mongoose.connect('mongodb://localhost/write-i-diez')
     .then(() => console.log('MongoDB Connected...'))
