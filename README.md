@@ -1,8 +1,8 @@
 # writeidiez
 helps maintain your ideas
 
-future updates:
 
+future updates:
 #hosted on heroku
 with
 #db on mLab
