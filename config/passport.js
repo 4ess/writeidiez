@@ -23,8 +23,8 @@ module.exports = function(passport){
                 } else {
                 return done(null, false, {message: 'Wrong password, dude, wtf??'});                    
                 }
-            })
-        })
+            });
+        });
     }));
 
     passport.serializeUser(function(user, done) {
