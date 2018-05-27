@@ -1,9 +1,6 @@
 # writeidiez
 helps maintain your ideas
 
-hosted on :
-https://fierce-ridge-51720.herokuapp.com/
+Let's Go 
 <br>
-future updates:
-<br>
-#db on mLab
+https://widiez.herokuapp.com/
